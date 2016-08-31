@@ -1,0 +1,5 @@
+c:\users\touqeer\documents\visual studio 2013\Projects\Blank\Busist.Domains\bin\Debug\Busist.Domains.dll
+c:\users\touqeer\documents\visual studio 2013\Projects\Blank\Busist.Domains\bin\Debug\Busist.Domains.pdb
+c:\users\touqeer\documents\visual studio 2013\Projects\Blank\Busist.Domains\obj\Debug\Busist.Domains.csprojResolveAssemblyReference.cache
+c:\users\touqeer\documents\visual studio 2013\Projects\Blank\Busist.Domains\obj\Debug\Busist.Domains.dll
+c:\users\touqeer\documents\visual studio 2013\Projects\Blank\Busist.Domains\obj\Debug\Busist.Domains.pdb

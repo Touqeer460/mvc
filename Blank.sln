@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busist.Domains", "Busist.Domains\Busist.Domains.csproj", "{DFD61DAA-CA87-41FB-9536-EDEE53197980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busist.Web", "Busist.Web\Busist.Web.csproj", "{0743CFD2-3D6C-4A82-8B08-2440FD6338B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFD61DAA-CA87-41FB-9536-EDEE53197980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFD61DAA-CA87-41FB-9536-EDEE53197980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFD61DAA-CA87-41FB-9536-EDEE53197980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFD61DAA-CA87-41FB-9536-EDEE53197980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0743CFD2-3D6C-4A82-8B08-2440FD6338B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0743CFD2-3D6C-4A82-8B08-2440FD6338B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0743CFD2-3D6C-4A82-8B08-2440FD6338B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0743CFD2-3D6C-4A82-8B08-2440FD6338B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
